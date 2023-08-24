@@ -5,4 +5,4 @@ setInterval(() =>
 	{
 		rotation+=5;
 		line.style.transform='translate(-50%,-50%) rotate(${rotation}deg)';
-	},50);
+	}, 50);
